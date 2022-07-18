@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <div>
           <h1>RUBEN PORTE</h1>
-          <p>my webstite under construccion</p>
+          <p>My webstite under construccion</p>
         </div>
       </header>
     </div>
